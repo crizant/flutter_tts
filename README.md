@@ -1,3 +1,5 @@
+This repo is forked from [dlutton/flutter_tts](https://github.com/dlutton/flutter_tts) with a little modification to work in Swift 4.2.
+
 # Text To Speech
 
 [![pub package](https://img.shields.io/pub/v/flutter_tts.svg?style=for-the-badge&colorB=green)](https://pub.dartlang.org/packages/flutter_tts)
